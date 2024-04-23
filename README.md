@@ -1,3 +1,50 @@
+
+
+1. create the project & file structure
+    app.component.css => the stylesheet for our component, we put css in this file
+    app.component.html => the template for our component, we put html in this file
+    app.component.spec.ts => the unit test file, (we dont touch this file)
+    app.component.ts => the class for our component,  
+
+2. Displaying data 
+    data binding - this allows us to use data from our class file inside of our template
+        interpolation binding {{}} => this allows us to display the value of properites inside the template
+
+
+3. Compoments
+    ng generate component ./components/pokemon
+    ng g c ./components/home
+
+4. Routing
+
+5. Services & fetching
+    ng g service ./service/pokemon
+    
+6. Interfaces
+7. Passing data - Parent to Child & displaying fetched data
+8. Pipes
+9. User input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # AngularPokemon
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
